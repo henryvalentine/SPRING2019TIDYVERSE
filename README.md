@@ -70,3 +70,12 @@ I decided to do my tidyverse assignment on the tibbles package. The rmarkdown co
 
 ### Isabel R.
 I will focus on how to use the `Nest` and `Unnest` functions utilizing data from *FiveThirtyEight*,"How Popular Is Donald Trump?" from the trump-approval-ratings data set. The rmarkdown code has been posted to this repository and the html file can be found here: http://rpubs.com/IsabelR/TidyVerseAssignment
+
+## stringr
+
+### Henry Otuadinma
+I demonstrated using some functions from the stringr package to tidy and manipulate data.
+For part 2, I extended Austin Chan's vignette on the tibble package
+
+Part 1: http://rpubs.com/jackv13/tidyverse-recipe-1
+Part 2: http://rpubs.com/jackv13/tibble-vignette-extension
